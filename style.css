@@ -1,0 +1,60 @@
+
+.google{
+   display: block;
+   width: 200px;
+   height: 200px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: -150px;
+   
+}
+
+
+.boxcontainer{
+    margin: auto;
+    margin-top: 20%;
+    position: relative;
+    width: 500px;
+    height: 40px;
+    border: 2px solid white;
+    padding: 0px 10px;
+    border-radius: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.elementcontainer{
+    width: 105%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.search{
+    border: none;
+    margin-top: -66px;
+    width: 100%;
+    height: 100%;
+    padding: 0px 5px;
+    border-radius: 50px;
+    font-size: 18px;
+    font-family: "Nunito";
+    color: #424242;
+    font-weight: 500;
+}
+
+.sea{
+    width: 25px;
+    margin-top: -60px;
+    
+}
+
+.quora{
+    
+    margin-left: 100px;
+}
+
+.ins{
+    width: 63px;
+    height: 63px;
+    margin-left: 150px;
+   
+}
